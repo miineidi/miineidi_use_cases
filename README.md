@@ -1,5 +1,14 @@
 # Use Cases of Miineidi
 
+Links:
+[Mutation ce qu'il faut savoir](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
+
+[Eregulations](https://burkinafaso.eregulations.org)
+
+[Pieces constitutives d'un dossier de mutation/vente](http://infosfiscalesbf.over-blog.com/2016/03/pieces-constitutives-d-un-dossier-de-mutation-vente.html)
+
+[les Lois](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
+
 Use cases of Miineidi Blockchain
 -Documents
 -Validation process
@@ -7,7 +16,7 @@ Use cases of Miineidi Blockchain
 -Payement process
 -Information workflow
 
-## First Use Case: Urban permit to live
+## [First Use Case: Urban permit to live](https://burkinafaso.eregulations.org/procedure/82/27?l=fr)
 
 -Documents:
 
