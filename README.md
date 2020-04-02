@@ -95,60 +95,78 @@
 
 * ### Information Workflow for Urban permit to live
 
+* Duration
+    The total duration is estimated by adding the time spent 1) in the queues, 2) at the counter and 3) between the stages.
+
+        | Total duration        | 28Days        | 28Days  |
+        | --------------------- |:-------------:| -----:  |
+        | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
+        | Counter time          | 50mn          | 1h. 40mn|
+        | Waiting between stages| 28Days        | 28Days  |
+
 * ## [Second Use Case: land title](https://burkinafaso.eregulations.org/procedure/83/25?l=fr)
 
 * ### Documents for land title
 
-    Identification document
+        Identification document
 
-    Tax stamp - 200 F
+        Tax stamp - 200 F
 
-    Request for investment evaluation
+        Request for investment evaluation
 
-    Urban permit to live
+        Urban permit to live
 
-    Receipt of payment of the enjoyment tax
+        Receipt of payment of the enjoyment tax
 
-    The amount of fees to be paid
+        The amount of fees to be paid
 
-    Payment receipt
+        Payment receipt
 
-    Deposit receipt
+        Deposit receipt
 
-    Tax stamp - 1000 F
+        Tax stamp - 1000 F
 
-    Request to acquire a land title
+        Request to acquire a land title
 
-    Certified copy of the identification document
+        Certified copy of the identification document
 
-    Notification of fees
+        Notification of fees
 
-    Proxy
+        Proxy
 
 * ### Authaurities for land title
 
-    Single Window of the Land
+        Single Window of the Land
 
-    Legalization service
+        Legalization service
 
 * ### Payement process for land title: Cost of the procedure CFA 312,800
 
-    CFA 1,000
-    application stamp fee
+        CFA 1,000
+        application stamp fee
 
-    CFA 600
-    stamp fees for certified copies of identity documents and the request for an investment assessment
+        CFA 600
+        stamp fees for certified copies of identity documents and the request for an investment assessment
 
-    CFA 6,000
-    minimum travel costs for the team in the field
+        CFA 6,000
+        minimum travel costs for the team in the field
 
-    CFA 4,000
-    right to record investment valuation minutes
+        CFA 4,000
+        right to record investment valuation minutes
 
-    CFA 1,200
-    stamp fees for the minutes of investment evaluation
+        CFA 1,200
+        stamp fees for the minutes of investment evaluation
 
-    CFA 300,000
-    for land for residential or social use
+        CFA 300,000
+        for land for residential or social use
 
 * ### Information Workflow for land title
+
+* Duration
+    The total duration is estimated by adding the time spent 1) in the queues, 2) at the counter and 3) between the stages.
+
+        | Total duration        | 28Days        | 28Days  |
+        | --------------------- |:-------------:| -----:  |
+        | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
+        | Counter time          | 50mn          | 1h. 40mn|
+        | Waiting between stages| 28Days        | 28Days  |
