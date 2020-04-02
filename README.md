@@ -130,7 +130,7 @@ We have 8 steps for validation process
 
     Legalization service
 
-*###Payement process: Cost of the procedure CFA 312,800
+* ###Payement process: Cost of the procedure CFA 312,800
 
     CFA 1,000
     application stamp fee
