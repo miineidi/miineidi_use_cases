@@ -233,7 +233,7 @@
 
 * ### Validation Process for land title following a transfer/sale
 
-    We have 11 steps for validation process
+    We have 14 steps for validation process
 
         1. Purchase of stamps
 
