@@ -1,6 +1,6 @@
 # Use Cases of Miineidi
 
-Links:
+* Links:
 
 [Mutation: Ce qu'il faut savoir](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
 
@@ -10,21 +10,21 @@ Links:
 
 [Les Lois](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
 
-Use cases of Miineidi Blockchain
+* ## Use cases of Miineidi Blockchain
 
-    *Documents
+        * ### Documents
 
-    *Validation process
+        * ### Validation process
 
-    *Authaurities
+        * ### Authaurities
 
-    *Payement process
+        * ### Payement process
 
-    *Information workflow
+        * ### Information workflow
 
-## [First Use Case: Urban permit to live](https://burkinafaso.eregulations.org/procedure/82/27?l=fr)
+* ## [First Use Case: Urban permit to live](https://burkinafaso.eregulations.org/procedure/82/27?l=fr)
 
-*###Documents:
+* ### Documents
 
     Identification document
 
@@ -35,7 +35,7 @@ Use cases of Miineidi Blockchain
     Certificate of plot allocation
 
     Receipt of payment of the enjoyment tax
-    
+
     The amount of fees to be paid
 
     Payment receipt
@@ -58,45 +58,46 @@ Use cases of Miineidi Blockchain
 
     Proxy
 
-*###Validation Process:
+* ### Validation Process
+
 We have 8 steps for validation process
 
-    1.purchase of stamps
+        1. purchase of stamps
 
-    2.Request for a certified copy of the identity document
+        2. Request for a certified copy of the identity document
 
-    3.Withdrawal of the certified copy of the identity document
+        3. Withdrawal of the certified copy of the identity document
 
-    4.Submission of the investment valuation request
+        4. Submission of the investment valuation request
 
-    5.Payment of fees
+        5. Payment of fees
 
-    6.Withdrawal of the minutes of investment evaluation
+        6. Withdrawal of the minutes of investment evaluation
 
-    7.Submission of the file
+        7. Submission of the file
 
-    8.Withdrawal of the Urban Housing Permit
+        8. Withdrawal of the Urban Housing Permit
 
-*###Authaurities:
+* ### Authaurities
 
     Guichet Unique du Foncier
 
-*###Payement process:
+* ### Payement process
 
-    CFA 6,000
-    minimum travel costs for the team in the field
+        CFA 6,000
+        minimum travel costs for the team in the field
 
-    CFA 4,000
-    right to record investment valuation minutes
+        CFA 4,000
+        right to record investment valuation minutes
 
-    CFA 1,200
-    stamp fees for the minutes of investment evaluation
+        CFA 1,200
+        stamp fees for the minutes of investment evaluation
 
 *###Information Workflow:
 
 ## [Second Use Case: land title](https://burkinafaso.eregulations.org/procedure/83/25?l=fr)
 
-*###Documents:
+* ### Documents
 
     Identification document
 
@@ -130,7 +131,7 @@ We have 8 steps for validation process
 
     Legalization service
 
-* ###Payement process: Cost of the procedure CFA 312,800
+* ###   Payement process: Cost of the procedure CFA 312,800
 
     CFA 1,000
     application stamp fee
