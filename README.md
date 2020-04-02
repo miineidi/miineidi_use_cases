@@ -98,11 +98,11 @@
 * Duration
     The total duration is estimated by adding the time spent 1) in the queues, 2) at the counter and 3) between the stages.
 
-        | Total duration        | 28Days        | 28Days  |
-        | --------------------- |:-------------:| -----:  |
-        | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
-        | Counter time          | 50mn          | 1h. 40mn|
-        | Waiting between stages| 28Days        | 28Days  |
+    | Total duration        | 28Days        | 28Days  |
+    | --------------------- |:-------------:| -----:  |
+    | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
+    | Counter time          | 50mn          | 1h. 40mn|
+    | Waiting between stages| 28Days        | 28Days  |
 
 * ## [Second Use Case: land title](https://burkinafaso.eregulations.org/procedure/83/25?l=fr)
 
@@ -165,8 +165,8 @@
 * Duration
     The total duration is estimated by adding the time spent 1) in the queues, 2) at the counter and 3) between the stages.
 
-        | Total duration        | 28Days        | 28Days  |
-        | --------------------- |:-------------:| -----:  |
-        | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
-        | Counter time          | 50mn          | 1h. 40mn|
-        | Waiting between stages| 28Days        | 28Days  |
+    | Total duration        | 28Days        | 28Days  |
+    | --------------------- |:-------------:| -----:  |
+    | Queues(cumulative)    | 1h. 35mn      | 2h. 20mn|
+    | Counter time          | 50mn          | 1h. 40mn|
+    | Waiting between stages| 28Days        | 28Days  |
