@@ -134,6 +134,32 @@
 
         Proxy
 
+* ### Validation Process for land title
+
+    We have 11 steps for validation process
+
+        1. Purchase of stamps
+
+        2. Request for a certified copy of the identity document
+
+        3. Withdrawal of the certified copy of the identity document
+
+        4. Submission of the investment valuation request
+
+        5. Payment of fees
+
+        6. Withdrawal of the minutes of investment evaluation
+
+        7. Application for the liquidation of rights
+
+        8. Withdrawal of notification of fees
+
+        9. Payment of fees
+
+        10. File registration
+
+        11. Withdrawal of land title 
+
 * ### Authaurities for land title
 
         Single Window of the Land
