@@ -2,65 +2,65 @@
 
 * Links:
 
-[Mutation: Ce qu'il faut savoir](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
+    [Mutation: Ce qu'il faut savoir](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
 
-[Eregulations](https://burkinafaso.eregulations.org)
+    [Eregulations](https://burkinafaso.eregulations.org)
 
-[Pieces constitutives d'un dossier de mutation/vente](http://infosfiscalesbf.over-blog.com/2016/03/pieces-constitutives-d-un-dossier-de-mutation-vente.html)
+    [Pieces constitutives d'un dossier de mutation/vente](http://infosfiscalesbf.over-blog.com/2016/03/pieces-constitutives-d-un-dossier-de-mutation-vente.html)
 
-[Les Lois](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
+    [Les Lois](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
 
 * ## Use cases of Miineidi Blockchain
 
-        * ### Documents
+* Documents
 
-        * ### Validation process
+* Validation process
 
-        * ### Authaurities
+* Authaurities
 
-        * ### Payement process
+* Payement process
 
-        * ### Information workflow
+* Information workflow
 
 * ## [First Use Case: Urban permit to live](https://burkinafaso.eregulations.org/procedure/82/27?l=fr)
 
-* ### Documents
+* ### Documents for Urban permit to live
 
-    Identification document
+        Identification document
 
-    Tax stamp
+        Tax stamp
 
-    Request for investment evaluation
+        Request for investment evaluation
 
-    Certificate of plot allocation
+        Certificate of plot allocation
 
-    Receipt of payment of the enjoyment tax
+        Receipt of payment of the enjoyment tax
 
-    The amount of fees to be paid
+        The amount of fees to be paid
 
-    Payment receipt
+        Payment receipt
 
-    Deposit receipt
+        Deposit receipt
 
-    Certified copy of the identity document
+        Certified copy of the identity document
 
-    Investment evaluation report
+        Investment evaluation report
 
-    municipal stamp
+        municipal stamp
 
-    common stamp
+        common stamp
 
-    PUH request
+        PUH request
 
-    Receipt of payment of the residence tax
+        Receipt of payment of the residence tax
 
-    Deposit receipt
+        Deposit receipt
 
-    Proxy
+        Proxy
 
-* ### Validation Process
+* ### Validation Process for Urban permit to live
 
-We have 8 steps for validation process
+    We have 8 steps for validation process
 
         1. purchase of stamps
 
@@ -78,11 +78,11 @@ We have 8 steps for validation process
 
         8. Withdrawal of the Urban Housing Permit
 
-* ### Authaurities
+* ### Authaurities for Urban permit to live
 
-    Guichet Unique du Foncier
+        Guichet Unique du Foncier
 
-* ### Payement process
+* ### Payement process for Urban permit to live
 
         CFA 6,000
         minimum travel costs for the team in the field
@@ -93,11 +93,11 @@ We have 8 steps for validation process
         CFA 1,200
         stamp fees for the minutes of investment evaluation
 
-*###Information Workflow:
+* ### Information Workflow for Urban permit to live
 
-## [Second Use Case: land title](https://burkinafaso.eregulations.org/procedure/83/25?l=fr)
+* ## [Second Use Case: land title](https://burkinafaso.eregulations.org/procedure/83/25?l=fr)
 
-* ### Documents
+* ### Documents for land title
 
     Identification document
 
@@ -125,13 +125,13 @@ We have 8 steps for validation process
 
     Proxy
 
-*###Authaurities:
+* ### Authaurities for land title
 
     Single Window of the Land
 
     Legalization service
 
-* ###   Payement process: Cost of the procedure CFA 312,800
+* ### Payement process for land title: Cost of the procedure CFA 312,800
 
     CFA 1,000
     application stamp fee
@@ -151,4 +151,4 @@ We have 8 steps for validation process
     CFA 300,000
     for land for residential or social use
 
-*###Information Workflow:
+* ### Information Workflow for land title
