@@ -1,4 +1,4 @@
-# Use Cases of Miineidi
+# Miineidi Blockchain
 
 * Links:
 
