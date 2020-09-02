@@ -2,13 +2,13 @@
 
 * Links:
 
-    [Mutation: Ce qu'il faut savoir](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
+    [Mutation: What you need to know](https://www.burkina24.com/2016/01/21/droits-de-mutations-des-terrains-dhabitation-ce-quil-faut-savoir/)
 
-    [Eregulations](https://burkinafaso.eregulations.org)
+    [Regulations](https://burkinafaso.eregulations.org)
 
-    [Pieces constitutives d'un dossier de mutation/vente](http://infosfiscalesbf.over-blog.com/2016/03/pieces-constitutives-d-un-dossier-de-mutation-vente.html)
+    [Items constituting a transfer / sale file](http://infosfiscalesbf.over-blog.com/2016/03/pieces-constitutives-d-un-dossier-de-mutation-vente.html)
 
-    [Les Lois](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
+    [Laws](http://extwprlegs1.fao.org/docs/pdf/bkf139639.pdf)
 
 * ## Use cases of Miineidi Blockchain
 
